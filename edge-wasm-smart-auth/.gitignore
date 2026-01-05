@@ -1,0 +1,7 @@
+# Rust build
+wasm/target/
+
+# WASM artifact (built elsewhere and copied)
+worker/auth.wasm
+
+
